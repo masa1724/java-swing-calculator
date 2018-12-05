@@ -76,3 +76,4 @@ class FormulaManager {
 		formulaChangeEventListeners.forEach(l -> l.onChange(new FormulaChangeEvent(nodes)));
 	}
 }
+
